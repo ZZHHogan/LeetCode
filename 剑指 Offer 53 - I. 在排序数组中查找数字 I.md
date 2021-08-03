@@ -1,4 +1,4 @@
-# 今天的题是在排序数组中查找数字 I
+# 今天的题是[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 
 统计一个数字在排序数组中出现的次数。
 
